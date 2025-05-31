@@ -24,3 +24,6 @@ uplink-shotgun-drum-slug-desc = Shotgun drum with eight slug shells. Compatible 
 
 uplink-hushpup-name = Hushpup
 uplink-hushpup-desc = Contains a Hushpup, a powerful silenced shotgun with a low magazine capacity, as well as a spare box of buckshot. Uses .50 shotgun ammo.
+
+uplink-syndicate-access-config-name = Cybersun Configurator
+uplink-syndicate-access-config-desc = A competing access configurator that works with NanoTrasen and Syndicate IDs. Not to be confused with the Access Breaker.

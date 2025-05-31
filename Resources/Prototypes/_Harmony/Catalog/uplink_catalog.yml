@@ -86,6 +86,17 @@
     stock: 1
 
 # Disruption
+
+- type: listing
+  id: AccessConfiguratorSyndicate
+  name: uplink-syndicate-access-config-name
+  description: uplink-syndicate-access-config-desc
+  productEntity: AccessConfiguratorSyndicate
+  cost:
+    Telecrystal: 2
+  categories:
+  - UplinkDisruption
+
 # Allies
 # Implants
 - type: listing
