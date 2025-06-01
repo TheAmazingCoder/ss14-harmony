@@ -2,7 +2,7 @@
   parent: [BaseItem, BaseSyndicateContraband]
   id: AccessConfiguratorSyndicate
   name: syndicate access configurator
-  description: A Cybersun branded access configurator, compatible with both Nanotrasen and Syndicate IDs.
+  description: A Cybersun branded access configurator, compatible with both NanoTrasen and Syndicate IDs. Now with quick swap functionality!
   components:
   - type: EmitSoundOnLand
     sound:
@@ -55,7 +55,7 @@
       ejectSound: /Audio/Machines/id_swipe.ogg
       insertSound: /Audio/Weapons/Guns/MagIn/batrifle_magin.ogg
       ejectOnBreak: true
-      swap: false
+      swap: true
       whitelist:
         components:
         - IdCard
